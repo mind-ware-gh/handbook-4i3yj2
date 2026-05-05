@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mind-ware-gh.github.io/handbook-4i3yj2/sitemap.xml
